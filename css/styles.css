@@ -172,6 +172,10 @@ body {
     font-size: 18px;
     float: left;
 }
+#main-content1{
+    background-color: #000;
+    color: white;
+}
 /**END HOME PAGE**/
 
 /*****large devices*****/
