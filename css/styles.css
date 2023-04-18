@@ -190,8 +190,7 @@ body {
     right: 0;
     width: 100%;
     text-align: center;
-    font-size: 0.8em;
-    text-transform: uppercase;
+    font-size: 0.6em;
     background-color: #000;
     color: #fff;
     opacity: .8;
@@ -242,5 +241,11 @@ body {
     }
     .nav-item a span{
         font-size: 1em;
+    }
+    
+}
+/*****super extra small devices*****/
+@media (max-width: 479px) {
+    
     }
 }
