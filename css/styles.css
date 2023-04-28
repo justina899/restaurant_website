@@ -1,9 +1,8 @@
 body {
     font-family: Typo Gotika Demo; src: url('typo-gotika.otf');
-    background-image: url('/images/L-intro.jpg');
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
+    background-color: #000;
+    color:aliceblue;
+    
 }
 /**Header**/
 #header-nav {
